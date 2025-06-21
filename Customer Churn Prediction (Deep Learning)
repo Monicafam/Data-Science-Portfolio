@@ -1,0 +1,17 @@
+Customer Churn Prediction (Deep Learning)
+
+This project uses a deep learning model to predict telecom customer churn. It includes data cleaning, feature engineering, model tuning, and SHAP explainability.
+
+🧠 Techniques
+- TensorFlow/Keras
+- Binary Classification
+- Feature Engineering
+- Hyperparameter Tuning
+- SHAP Explainability
+
+📊 Dataset
+- Telco Customer Churn Dataset (Kaggle)
+
+🔍 Outcome
+- Accuracy: 86%
+- SHAP Visuals: Interpreted top predictors like contract type and tenure
